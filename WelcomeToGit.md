@@ -1,4 +1,3 @@
-# Primeros pasos en git
 
 # Guía Básica de Git
 
